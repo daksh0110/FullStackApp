@@ -1,0 +1,81 @@
+{
+    "homepage": {
+      "loginPrompt": "कृपया पहले लॉगिन करें"
+    },
+    "userAdmin": {
+      "welcome": "यूज़र एडमिन में स्वागत है",
+      "createAd": "विज्ञापन बनाएँ",
+      "viewAllAds": "सभी विज्ञापन देखें",
+      "price-per-click": "प्रति क्लिक मूल्य"
+    },
+    "userHome": {
+      "welcome": "यूज़र होम में स्वागत है",
+      "viewAllAds": "सभी विज्ञापन देखें"
+    },
+    "createAdPage": {
+      "title": "यहाँ विज्ञापन बनाएँ",
+      "form": {
+        "title": "शीर्षक",
+        "description": "विवरण",
+        "submitButton": "विज्ञापन बनाएँ",
+        "mediaUrl": "मीडिया URL",
+        "pricePerView": "प्रति दृश्य मूल्य",
+        "isActive": "सक्रिय है",
+        "creatingAdButton": "विज्ञापन बना रहे हैं...",
+        "createAdButton": "विज्ञापन बनाएँ",
+        "failedCreate": "विज्ञापन बनाने में विफल। कृपया बाद में पुनः प्रयास करें।"
+      },
+      "successMessage": "विज्ञापन सफलतापूर्वक बनाया गया",
+      "errorMessage": "कोई त्रुटि हुई। कृपया पुनः प्रयास करें।"
+    },
+    "header": {
+      "wallet": "वॉलेट: ",
+      "username": "उपयोगकर्ता नाम",
+      "profile": "प्रोफ़ाइल",
+      "logout": "लॉगआउट",
+      "loginButton": "लॉगिन",
+      "adsSystem": "विज्ञापन प्रणाली",
+      "admin": "एडमिन",
+      "user": "उपयोगकर्ता",
+      "profile": "प्रोफ़ाइल",
+      "logout": "लॉगआउट",
+      "login": "लॉगिन",
+      "balance": "बैलेंस",
+      "loading": "लोड हो रहा है...",
+      "fetchError": "वॉलेट बैलेंस प्राप्त करने में त्रुटि।",
+      "updated": "वॉलेट सफलतापूर्वक अपडेट हुआ।",
+      "updateError": "वॉलेट अपडेट करने में विफल। कृपया पुनः प्रयास करें।",
+      "genericError": "कोई त्रुटि हुई। कृपया पुनः प्रयास करें।"
+    },
+    "login": {
+      "title": "अपने खाते में लॉगिन करें",
+      "userLogin": "उपयोगकर्ता लॉगिन",
+      "adminLogin": "एडमिन लॉगिन",
+      "email": "ईमेल",
+      "emailPlaceholder": "अपना ईमेल दर्ज करें",
+      "password": "पासवर्ड",
+      "passwordPlaceholder": "अपना पासवर्ड दर्ज करें",
+      "login": "लॉगिन",
+      "loggingIn": "लॉगिन हो रहा है...",
+      "failureMessage": "अमान्य क्रेडेंशियल्स। कृपया पुनः प्रयास करें।",
+      "errorMessage": "एक त्रुटि हुई: {{message}}",
+      "dontHaveAccount": "क्या आपके पास खाता नहीं है?",
+      "registerHere": "यहाँ पंजीकरण करें",
+      "success": "लॉगिन सफल",
+      "registerSuccess": "खाता सफलतापूर्वक बनाया गया। कृपया लॉगिन करें।",
+      "loginError": "लॉगिन विफल। कृपया अपने क्रेडेंशियल्स की जाँच करें और पुनः प्रयास करें।"
+    },
+    "createAdForm": {
+      "title": "शीर्षक",
+      "description": "विवरण",
+      "submitButton": "विज्ञापन बनाएँ",
+      "failedCreate": "विज्ञापन बनाने में विफल। कृपया बाद में पुनः प्रयास करें।",
+      "creatingAdButton": "विज्ञापन बना रहे हैं...",
+      "createAdButton": "विज्ञापन बनाएँ",
+      "errorMessage": "विज्ञापन बनाने में कोई त्रुटि हुई। कृपया पुनः प्रयास करें।",
+      "tokenError": "टोकन नहीं मिला",
+      "refreshTokenError": "टोकन रिफ्रेश करने में त्रुटि",
+      "refreshTokenExpired": "रिफ्रेश टोकन समाप्त हो गया है। कृपया फिर से लॉगिन करें।"
+    }
+  }
+  

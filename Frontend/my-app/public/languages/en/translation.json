@@ -1,0 +1,80 @@
+{
+  "homepage": {
+    "loginPrompt": "Please log in first"
+  },
+  "userAdmin": {
+    "welcome": "Welcome to User Admin",
+    "createAd": "Create Ad",
+    "viewAllAds": "View All Ads",
+    "price-per-click": "Price per click"
+  },
+  "userHome": {
+    "welcome": "Welcome to User Home",
+    "viewAllAds": "View All Ads"
+  },
+  "createAdPage": {
+    "title": "Create ad here",
+    "form": {
+      "title": "Title",
+      "description": "Description",
+      "submitButton": "Create Ad",
+      "mediaUrl": "Media URL",
+      "pricePerView": "Price per view",
+      "isActive": "Is Active",
+      "creatingAdButton": "Creating Ad...",
+      "createAdButton": "Create Ad",
+      "failedCreate": "Failed to create ad. Please try again later."
+    },
+    "successMessage": "Ad created successfully",
+    "errorMessage": "An error occurred. Please try again."
+  },
+  "header": {
+    "wallet": "Wallet: ",
+    "username": "Username",
+    "profile": "Profile",
+    "logout": "Logout",
+    "loginButton": "Login",
+    "adsSystem": "Ads System",
+    "admin": "Admin",
+    "user": "User",
+    "profile": "Profile",
+    "logout": "Logout",
+    "login": "Login",
+    "balance": "Balance",
+    "loading": "Loading...",
+    "fetchError": "Error fetching wallet balance.",
+    "updated": "Wallet updated successfully.",
+    "updateError": "Failed to update wallet. Please try again.",
+    "genericError": "An error occurred. Please try again."
+  },
+  "login": {
+    "title": "Login to Your Account",
+    "userLogin": "User Login",
+    "adminLogin": "Admin Login",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "password": "Password",
+    "passwordPlaceholder": "Enter your password",
+    "login": "Login",
+    "loggingIn": "Logging in...",
+    "failureMessage": "Invalid credentials. Please try again.",
+    "errorMessage": "An error occurred: {{message}}",
+    "dontHaveAccount": "Don't have an account?",
+    "registerHere": "Register here",
+    "success": "Login successful",
+    "registerSuccess": "Account successfully created. Please log in.",
+    "loginError": "Login failed. Please check your credentials and try again."
+  },
+  "createAdForm": {
+    "title": "Title",
+    "description": "Description",
+    "submitButton": "Create Ad",
+    "failedCreate": "Failed to create ad. Please try again later.",
+    "creatingAdButton": "Creating Ad...",
+    "createAdButton": "Create Ad",
+    "errorMessage": "An error occurred while creating the ad. Please try again.",
+    "tokenError": "Token not found",
+    "refreshTokenError": "Error refreshing token",
+    "refreshTokenExpired": "Refresh token expired. Please log in again."
+  }
+}
